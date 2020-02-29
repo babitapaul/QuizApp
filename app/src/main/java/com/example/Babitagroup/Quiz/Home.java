@@ -19,7 +19,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 import com.example.Babitagroup.Quiz.Fragment.CategoryFragment;
-import com.example.Babitagroup.Quiz.Fragment.RankingFragment;
 
 import java.util.Random;
 
