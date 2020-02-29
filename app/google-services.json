@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85670669027",
+    "firebase_url": "https://quizapp-f3bcc.firebaseio.com",
+    "project_id": "quizapp-f3bcc",
+    "storage_bucket": "quizapp-f3bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85670669027:android:de3d10077dacc6b3ad73d6",
+        "android_client_info": {
+          "package_name": "com.example.Babitagroup.Quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85670669027-7o16vta1hvnsal87jip4lk72n9b8cq1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ThZBkIu9gqJa1JCHFAZJZ9D_XBlqqYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85670669027-7o16vta1hvnsal87jip4lk72n9b8cq1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
